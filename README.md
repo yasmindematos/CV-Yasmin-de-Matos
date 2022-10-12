@@ -12,8 +12,9 @@ Currículo criado e hospedado com informações sobre mim, estudos, experiência
 ➡️  [Acesse o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
   
   <hr>
+  <br>
 <div style="display: inline_block" align="center">  
-<strong>Linguagens e Ferramentas usadas:</strong><br>
+<h2 align="center"><strong>🛠  Linguagens e Ferramentas usadas:</strong></h1><br>
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,10 +25,13 @@ Currículo criado e hospedado com informações sobre mim, estudos, experiência
 
 
 <hr>
-
+<br>
+<h2 align="center"><strong>💻 Projeto - Empower Code for women | Alura Include | Zenvia</strong></h1><br>
 Projeto em desenvolvimento para o curso "Empower Code for women | Alura Include | Zenvia" - programa de formação Front-End realizado pela empresa Zenvia em parceria com a escola Alura, tendo este bootcamp a finalidade de capacitar mulheres na área tecnológica.
-
+<br>
 <hr>
-# Autora
+  <br>
+<h2 align="center"><strong>:mortar_board: Autora</strong></h1><br> 
+
 
 [<img src="https://avatars.githubusercontent.com/u/98225965" width=115><br><sub>Yasmin de Matos</sub>](https://github.com/yasmindematos) 
