@@ -6,7 +6,7 @@
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)</div>
 <br>
-➡️  [Clique para visitar a o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
+➡️  [Clique para visitar o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
   
   <hr>
 <div style="display: inline_block" align="center">  
