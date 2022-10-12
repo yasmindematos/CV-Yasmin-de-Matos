@@ -38,5 +38,5 @@ Projeto em desenvolvimento para o curso "Empower Code for women | Alura Include 
 
 
 <h4 align="center">
-   Feito com 💜 por  <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank"> Yasmin de Matos </a>
+   Feito por  <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank"> Yasmin de Matos </a>
 </h4>
