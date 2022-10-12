@@ -1,4 +1,4 @@
-<h1 align="center"> CV de Yasmin de Matos </h1>
+<h1 align="center"> 📝 CV de Yasmin de Matos </h1>
 
 <br>
 
