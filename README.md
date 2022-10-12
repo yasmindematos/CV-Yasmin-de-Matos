@@ -35,3 +35,8 @@ Projeto em desenvolvimento para o curso "Empower Code for women | Alura Include 
 
 
 [<img src="https://avatars.githubusercontent.com/u/98225965" width=115><br><sub>Yasmin de Matos</sub>](https://github.com/yasmindematos) 
+
+
+<h4 align="center">
+   Feito com 💜 por  <a href="https://www.linkedin.com/in/yasmindematos/" target="_blank"> Yasmin de Matos </a>
+</h4>
