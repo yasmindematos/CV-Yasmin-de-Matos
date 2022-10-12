@@ -2,6 +2,10 @@
 
 <br>
 
+![CV](https://user-images.githubusercontent.com/98225965/195349486-66d466a7-9470-462d-8d8f-c17d7b2ce19c.png)
+
+<br>
+
 <div style="display: inline_block" align="center">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)</div>
