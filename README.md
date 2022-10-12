@@ -5,7 +5,10 @@
 <div style="display: inline_block" align="center">
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+[Clique para visitar a o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
+  
+  <hr>
+  
 <strong>Linguagens e Ferramentas usadas:</strong><br>
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -13,7 +16,8 @@
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
-[Clique para visitar a o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
+
+
 
 <hr>
 
