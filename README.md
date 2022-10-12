@@ -33,6 +33,13 @@ Currículo criado e hospedado com informações sobre mim, estudos, experiência
 <h2 align="center"><strong>💻 Projeto - Empower Code for women | Alura Include | Zenvia</strong></h1><br>
 Projeto em desenvolvimento para o curso "Empower Code for women | Alura Include | Zenvia" - programa de formação Front-End realizado pela empresa Zenvia em parceria com a escola Alura, tendo este bootcamp a finalidade de capacitar mulheres na área tecnológica.
 <br>
+
+<br>
+Inspiração em projetos de:
+<br>
+▶️ <a href="https://cursos.alura.com.br/course" target="_blank"> Curso de HTML5 e CSS3 - Alura  </a> ; ▶️ <a href="https://github.com/teteusAraujo/portfolio" target="_blank"> Mateus Araújo  </a> ; ▶️ <a href="https://github.com/giovanadgcorrea/curriculo_giovana_correa" target="_blank"> Giovana Corrêa  </a> ; ▶️ <a href="https://milenaemmert.github.io/meu-portfolio-web-v2/" target="_blank"> Milena Emmert  </a> ; ▶️ <a href="https://github.com/felicityBR/felicityBR.github.io" target="_blank"> FelicityBR Jones  </a>
+<br>
+
 <hr>
   <br>
 <h2 align="center"><strong>:mortar_board: Autora</strong></h1><br> 
