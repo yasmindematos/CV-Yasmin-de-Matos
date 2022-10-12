@@ -13,7 +13,7 @@
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
   
-[Clique para visitar a o CV](https://yasmindematos.github.io/)
+[Clique para visitar a o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
 
 <hr>
 
