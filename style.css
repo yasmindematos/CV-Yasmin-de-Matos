@@ -1,0 +1,386 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(90deg, #3e0077, #a30088);
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.3;
+    position: relative;
+}
+
+header {
+    height: 52px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-image: linear-gradient(90deg, #3e0077, #a30088);
+    color: #dbb5ff;
+    z-index: 1;
+}
+
+nav {
+    text-align: center;
+    position: relative;
+}
+
+nav li {
+    display: inline-block;
+    margin: 16px 10px;
+}
+
+nav li:not(:last-child):after {
+    content: "•";
+    margin-left: 24px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: #dbb5ff;
+    transition: 0.3s color;
+}
+
+nav li a:hover{
+    color: #663991;
+}
+
+main {
+    background: #fafafa;
+    padding: 48px 0;
+    color: #3e0077;
+}
+
+main div {
+    width: 1020px;
+    margin: 0 auto;    
+}
+
+.sobre-mim {
+    position: relative;
+}
+
+.foto-sobre-mim {
+    width: 460px;
+    height: 315px;
+    display: inline-block;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgb(88, 72, 107);
+}
+
+.texto-sobre-mim {
+    display: inline-block;
+    width: 480px;
+    vertical-align: top;
+    position: absolute;
+    right: 0;
+    font-size: 16px;
+}
+
+.titulo {
+    font-weight: bold;
+    margin-bottom: 18px;
+    margin-top: 18px;
+}
+
+.background-texto {
+    background-color: #eadcf7;
+    box-shadow: 1px 1px 16px rgb(189, 48, 255);
+    color: #3e0077;
+    padding: 18px;
+    display: inline-block;
+    border-radius: 8px;
+    width: 460px;
+    box-sizing: border-box;
+    vertical-align: top;
+    height: 120px;
+}
+
+.linha {
+    line-height: 1.7;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.italico {
+    font-style: italic ;
+}
+
+.margem-caixas {
+    margin: 20px;
+}
+
+.icones-interesses {
+    width: 70px;
+    margin: 5px;
+}
+
+section {
+    width: 1020px;
+    height: 400px;
+    margin: 0 auto;
+    padding-top: 48px;
+    position: relative;
+    color: #dbb5ff;
+}
+
+.pessoa {
+    display: inline-block;
+}
+
+.pessoa h1 {
+    font-size: 64px;
+    font-weight: bolder;
+    margin-top: 64px;
+}
+
+.avatar {
+    position: absolute;
+    width: 260px;
+    aspect-ratio: 1;
+    background-image: url('img/yaz.png');
+    background-position: center;
+    background-size: cover;
+    right: 80px;
+    top: 90px;
+    border-radius: 50%;
+    border: rgb(#83006d) 10px solid;
+}
+
+.pessoa h2 {
+    margin: 16px 0;
+    font-size: 27px;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.contato img {
+    width: 40px;
+    margin: 18px 6px;
+    transition: 0.7s transform;
+}
+
+.contato img:hover {
+    transform: scale(1.3);
+}
+
+.contato {
+    position: relative;
+    margin-top: 5px;
+}
+
+footer {
+    height: 180px;
+    padding-top: 32px;
+    text-align: center;
+}
+
+footer, a {
+    color: #dbb5ff;
+}
+
+.footer-informacoes {
+    width: 1020px;
+    margin: 0 auto 25px;
+}
+
+.footer-informacoes img {
+    width: 25px;
+}
+
+.fale-comigo {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 3px;
+}
+
+.menu-mobile {
+    width: 250px;
+    height: 400px;
+    background-image: linear-gradient(90deg, #a30088, #360068);
+    position: fixed;
+    top: 8px;
+    right: 0;
+    border-radius: 10px 0 0 10px;
+    z-index: 1;
+}
+
+.display-menu {
+    display: none;
+}
+
+.icone-menu {
+    display: none;
+    position: absolute;    
+    top: 16px;
+    right: 16px;
+    z-index: 1;
+    transition: 0.3s opacity;
+}
+
+.icone-exit {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    z-index: 1;
+    transition: 0.3s opacity;
+}
+
+.icone-menu:hover, .icone-exit:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.nav-mobile {
+    position: relative;
+}
+
+.nav-mobile ul {
+    position: absolute;
+    top: 100px;
+    left: 48px;
+    list-style: none;
+}
+
+.nav-mobile li {
+    margin-bottom: 18px;
+}
+
+.nav-mobile li::before {
+    content: "•";
+    color: #000000;
+}
+
+.nav-mobile a {
+    text-decoration: none; 
+    transition: 0.3s color;
+    margin-left: 8px;
+}
+
+.nav-mobile a:hover {
+    color: #e5e6ff80;
+}
+
+
+@media screen and (max-width:620px) {
+
+    header {
+        display: none;
+    }
+
+    main {
+        padding: 22px 0;
+    }
+
+    main div {
+        width: 580px;
+        padding: 12px;
+    }
+
+    .foto-sobre-mim {
+        display: none;
+    }
+
+    .texto-sobre-mim {
+        position: relative;
+        display: block;
+        width: 500px;
+        text-align: center;
+        font-size: 20px;
+        right: 0;
+        left: 0;
+        top: 0;
+        margin: 0 auto;
+    }
+
+    .titulo {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .background-texto {
+        font-size: 20px;
+        width: 600px;
+        height: 150px;
+    }
+
+    .margem-caixas {
+        margin: 0 0 32px 0;
+    }
+
+    .icones-interesses {
+        width: 85px;
+    }
+
+    section {
+        width: 450px;
+        height: 450px;
+    }
+
+    .avatar {
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 180px;
+        top: 18px;
+        border-width: 10px; 
+    }
+
+    .pessoa {
+        display: block;
+    }
+
+    .pessoa h1 {
+        text-align: center;
+        font-size: 53px;
+        margin-top: 152px;
+    }
+
+    .pessoa h2 {
+        text-align: center;
+        font-size: 30px;
+        font-weight: 700;
+        font-style: oblique 40deg;
+    }
+ 
+    main h3 {
+        font-size: 25px;
+    }
+
+    .contato {  
+        position: absolute;
+        top: 200px;
+        right: 0;
+        left: 0;
+        width: 180px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+    .contato img {
+        width: 34px;
+        display: inline-block;
+    }
+
+    footer {
+        padding: 14px 0 20px 0;
+    }
+
+    .footer-informacoes  {
+        width: 180px;
+        font-size: 20px;
+    }
+
+    .icone-menu {
+        display: inherit;
+    }
+}
+
+@media screen and (min-width:620px) {
+    .menu-mobile {
+        display: none;
+    }
+}
