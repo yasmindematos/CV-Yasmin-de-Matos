@@ -140,14 +140,10 @@ section {
 .avatar {
     position: absolute;
     width: 260px;
-    aspect-ratio: 1;
-    background-image: url('img/Yaz.png');
-    background-position: center;
-    background-size: cover;
     right: 80px;
     top: 90px;
     border-radius: 50%;
-    border: rgb(#83006d) 10px solid;
+    border: #dbb5ff 3px solid;
 }
 
 .pessoa h2 {
