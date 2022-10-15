@@ -2,7 +2,8 @@
 
 <br>
 
-![CV](https://user-images.githubusercontent.com/98225965/195349486-66d466a7-9470-462d-8d8f-c17d7b2ce19c.png)
+<video src="https://user-images.githubusercontent.com/98225965/195992358-6cdc816e-3da6-4909-851a-b44b004c2fb6.mov" alt="CV" width="730">
+</video>
 
 <br>
 
