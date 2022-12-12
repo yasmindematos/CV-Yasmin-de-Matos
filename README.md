@@ -12,7 +12,7 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)</div>
 <br>
 
-Currículo criado e hospedado com informações sobre mim, estudos, experiências profissionais, além de linguagens e ferramentas.
+Currículo criado e hospedado com informações sobre mim, além de estudos, experiências profissionais e as linguagens e ferramentas.
 
 ➡️  [Acesse o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
   
