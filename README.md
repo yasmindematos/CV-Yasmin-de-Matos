@@ -14,7 +14,7 @@
 
 Currículo criado e hospedado com informações sobre mim, além de estudos, experiências profissionais e as linguagens e ferramentas.
 
-➡️  [Acesse o CV](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
+➡️  [Acesse o CV da Yasmin](https://yasmindematos.github.io/CV-Yasmin-de-Matos)
   
   <hr>
   <br>
